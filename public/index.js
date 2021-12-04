@@ -35,3 +35,5 @@ document.addEventListener("keydown", function(e){
 		sendButtonPress('W');
 	}
 }, false);
+
+/* Python */
